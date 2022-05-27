@@ -1,0 +1,13 @@
+asyncapi: '2.0.0'
+info:
+  title: M1
+channels:
+  A:
+    publish:
+  B:
+    publish:
+    subscribe:
+  C:
+    subscribe:
+  D:
+    publish:
